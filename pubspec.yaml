@@ -1,0 +1,11 @@
+name: custom_themer_annotations
+description: Annotations to use for custom_themer.
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=2.18.6 <3.0.0'
+
+dependencies:
+
+dev_dependencies:
